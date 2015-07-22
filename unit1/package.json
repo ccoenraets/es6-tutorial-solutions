@@ -1,0 +1,16 @@
+{
+  "name": "es6-tutorial",
+  "version": "1.0.0",
+  "description": "ECMAScript 6 Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christophe Coenraets <ccoenraets@gmail.com> (http://coenraets.org/)",
+  "license": "ISC",
+  "repository": "https://gitub.com/ccoenraets/es6-tutorial",
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
+}
